@@ -1,0 +1,11 @@
+../User/e-Paper/EPD_1in54.c:108:13:EPD_1IN54_Reset	1
+../User/e-Paper/EPD_1in54.c:123:13:EPD_1IN54_SendCommand	1
+../User/e-Paper/EPD_1in54.c:136:13:EPD_1IN54_SendData	1
+../User/e-Paper/EPD_1in54.c:148:6:EPD_1IN54_ReadBusy	2
+../User/e-Paper/EPD_1in54.c:161:13:EPD_1IN54_SetWindow	1
+../User/e-Paper/EPD_1in54.c:178:13:EPD_1IN54_SetCursor	1
+../User/e-Paper/EPD_1in54.c:192:13:EPD_1IN54_TurnOnDisplay	1
+../User/e-Paper/EPD_1in54.c:206:6:EPD_1IN54_Init	5
+../User/e-Paper/EPD_1in54.c:252:6:EPD_1IN54_Clear	3
+../User/e-Paper/EPD_1in54.c:272:6:EPD_1IN54_Display	3
+../User/e-Paper/EPD_1in54.c:296:6:EPD_1IN54_Sleep	1
