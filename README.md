@@ -95,8 +95,4 @@ Future versions are planned to include:
 - Additional sensors and appliance interfaces
 - Improved power management
 
-## Author
 
-**Indraraj Rajput**
-
-GitHub: [indrarajr7](https://github.com/indrarajr7)
